@@ -1,0 +1,428 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "ug4IUn4_2CIwn4jB-ij_W",
+      "type": "rectangle",
+      "x": 329.5959208407503,
+      "y": -229.56828465092042,
+      "width": 353.12890624999994,
+      "height": 306.88281249999994,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b04",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1621768235,
+      "version": 459,
+      "versionNonce": 2071771250,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "BnyeNJKCLDpJeTKUyla6f"
+        }
+      ],
+      "updated": 1764700175360,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "BnyeNJKCLDpJeTKUyla6f",
+      "type": "text",
+      "x": 334.5959208407503,
+      "y": -163.62687840092045,
+      "width": 262.85986328125,
+      "height": 175,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b05",
+      "roundness": null,
+      "seed": 2027043467,
+      "version": 538,
+      "versionNonce": 871422514,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1764700175360,
+      "link": null,
+      "locked": false,
+      "text": "    Local:\n    - Python 3.10\n    - Packages\n        - lv_ui_testing 2.1.0\n        - Numpy 2.3.0\n        - Pandas 2.3.3\n        - Tensorflow 2.1.2",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "ug4IUn4_2CIwn4jB-ij_W",
+      "originalText": "    Local:\n    - Python 3.10\n    - Packages\n        - lv_ui_testing 2.1.0\n        - Numpy 2.3.0\n        - Pandas 2.3.3\n        - Tensorflow 2.1.2",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "8rZ8iM1KMzxjKJ5Xfu6Dt",
+      "type": "rectangle",
+      "x": 748.8615458407503,
+      "y": -323.4745346509204,
+      "width": 233.38281250000006,
+      "height": 215.32421875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b06",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1965426347,
+      "version": 472,
+      "versionNonce": 1505118318,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "rn821UadmbTR4hWPtUcIV"
+        }
+      ],
+      "updated": 1764700043207,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "rn821UadmbTR4hWPtUcIV",
+      "type": "text",
+      "x": 753.8615458407503,
+      "y": -278.3124252759204,
+      "width": 190.41989135742188,
+      "height": 125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b07",
+      "roundness": null,
+      "seed": 1940257099,
+      "version": 474,
+      "versionNonce": 149883566,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1764700043207,
+      "link": null,
+      "locked": false,
+      "text": "    Env 1:\n    - Python 2.7\n    - Packages\n       - Numpy 2.1.0\n       - Pandas 1.0.1",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "8rZ8iM1KMzxjKJ5Xfu6Dt",
+      "originalText": "    Env 1:\n    - Python 2.7\n    - Packages\n       - Numpy 2.1.0\n       - Pandas 1.0.1",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "tH7iCAG3k4K5j_ieTtX-h",
+      "type": "rectangle",
+      "x": 745.2951395907503,
+      "y": -61.11906590092042,
+      "width": 148.265625,
+      "height": 136.453125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b08",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 458660485,
+      "version": 351,
+      "versionNonce": 461679790,
+      "isDeleted": true,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "tAxc54IxLXssQjx02oRUh"
+        },
+        {
+          "id": "o9-6LfowEcpKSlSvRCHa9",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1764699987431,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "tAxc54IxLXssQjx02oRUh",
+      "type": "text",
+      "x": 754.4580119052034,
+      "y": -17.89250340092042,
+      "width": 129.93988037109375,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b09",
+      "roundness": null,
+      "seed": 285934053,
+      "version": 334,
+      "versionNonce": 1307327794,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1764699987431,
+      "link": null,
+      "locked": false,
+      "text": "cat2 =\nCat(Garfield)",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "tH7iCAG3k4K5j_ieTtX-h",
+      "originalText": "cat2 =\nCat(Garfield)",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "gcboVX3koR74gOcSrNNSn",
+      "type": "arrow",
+      "x": 589.0607645907503,
+      "y": -116.73342161567733,
+      "width": 149.04296875,
+      "height": 56.359187871520064,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0A",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1190368267,
+      "version": 393,
+      "versionNonce": 1034936622,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1764700009373,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          61.9453125,
+          -46.75283178524309
+        ],
+        [
+          149.04296875,
+          -56.359187871520064
+        ]
+      ],
+      "startBinding": {
+        "elementId": "ug4IUn4_2CIwn4jB-ij_W",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.548093438680866,
+          0.4519065613191343
+        ]
+      },
+      "endBinding": {
+        "elementId": "8rZ8iM1KMzxjKJ5Xfu6Dt",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.4815233982819311,
+          0.48152339828193097
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "o9-6LfowEcpKSlSvRCHa9",
+      "type": "arrow",
+      "x": 567.7099103311216,
+      "y": -5.7850464193161315,
+      "width": 167.33664445761724,
+      "height": 63.36519926839571,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0B",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 322130693,
+      "version": 525,
+      "versionNonce": 2137004210,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1764699988936,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          62.600854259628704,
+          63.36519926839571
+        ],
+        [
+          167.33664445761724,
+          59.10369415469628
+        ]
+      ],
+      "startBinding": {
+        "elementId": "ug4IUn4_2CIwn4jB-ij_W",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.4635118310343094,
+          0.5364881689656912
+        ]
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "BwUY8f291dkWP8EljD2cj",
+      "type": "rectangle",
+      "x": 748.8615458407503,
+      "y": -32.82023777592042,
+      "width": 233.38281250000006,
+      "height": 215.32421875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0C",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 740110258,
+      "version": 594,
+      "versionNonce": 822349870,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "S5iNb3jplITKf_40Dp74M"
+        }
+      ],
+      "updated": 1764700183226,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "S5iNb3jplITKf_40Dp74M",
+      "type": "text",
+      "x": 753.8615458407503,
+      "y": 24.84187159907958,
+      "width": 206.8599090576172,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0D",
+      "roundness": null,
+      "seed": 1073768818,
+      "version": 619,
+      "versionNonce": 138373298,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1764700196824,
+      "link": null,
+      "locked": false,
+      "text": "    Env 2:\n    - Python 3.14\n    - Packages\n       - PyTorch 2.9.1",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "BwUY8f291dkWP8EljD2cj",
+      "originalText": "    Env 2:\n    - Python 3.14\n    - Packages\n       - PyTorch 2.9.1",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}
