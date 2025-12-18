@@ -41,9 +41,9 @@ Topics:
 * Introduction to virtual environments and packages
 
 ### Workshop 2 (Intermediate)
-Notebook: ...
+Notebook: [Workshop_2.ipynb](./workshop_2/Workshop_2.ipynb)
 
-Slides: ...
+Slides: [Python - Workshop 2.pdf](./workshop_2/Python%20-%20Workshop%202.pdf)
 
 Topics:
 * Object-Oriented Programming (classes, inheritance,...)
@@ -53,9 +53,9 @@ Topics:
 * Working with APIs and REST endpoints
 
 ### Workshop 3 (Advanced)
-Notebook: ...
+Notebook: [Workshop_3.ipynb](./workshop_3/Workshop_3.ipynb)
 
-Slides: ...
+Slides: [Python - Workshop 3.pdf](./workshop_3/Python%20-%20Workshop%203.pdf)
 
 Topics:
 * Decorators and context managers
